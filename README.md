@@ -8,7 +8,7 @@
   ## Who we are                                             
                                                                                                                                                                                                                
   Guild HQ is an independent World of Warcraft companion app built by                                                                                                                                          
-  [YOUR NAME] ("we", "us"). Contact: [YOUR EMAIL].
+  Ben Jones ("we", "us"). Contact: sthelens101@googlemail.com .
                                                                                                                                                                                                                
   ## What data we collect                                   
                                                                                                                                                                                                                
